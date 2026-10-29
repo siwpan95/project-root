@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **game-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/project-root` 分支；活跃维护请前往 **game-prototypes**。
+> _This repo is archived into game-prototypes; development continues there. Do not commit here._
+
 # 诡秘之主 · 序列途径模拟系统
 
 > 基于小说《诡秘之主》世界观的「序列魔药体系」模拟器 —— 数据驱动、含 CLI 演示与 tkinter 图形界面。
